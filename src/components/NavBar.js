@@ -38,10 +38,8 @@ export default function NavBar() {
           gap: 10px;
         }
         nav div a {
-          text-decoration: none;
           font-weight: 600;
           font-size: 18px;
-          color: black;
         }
         .active {
           color: tomato;
